@@ -1,0 +1,36 @@
+_repo: A-Georgian-Pageant_51964
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moore, Frank Frankfort
+    aliases:
+    - Littlemore, F.
+    - Moore, F. Frankfort (Frank Frankfort)
+    birthdate: 1855
+    deathdate: 1931
+    gutenberg_agent_id: '837'
+    url: http://www.gutenberg.org/2009/agents/837
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Frankfort_Moore
+description: ''
+gutenberg_issued: '2016-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51964'
+  lccn: 09022290
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- Biography'
+- !lcsh 'Great Britain -- Social life and customs -- 18th century'
+- !lcsh 'Great Britain -- Court and courtiers -- History -- 18th century'
+- GITenberg
+tableOfContents: The writer's apology -- The monarch of the pageant -- A comedy in
+  St. Martin's street -- A tragedy in the Haymarket -- The fatal gift -- The fête-champêtre
+  -- The plot of a lady novelist -- Tragedy with a twinkle -- The best comedy of the
+  century -- The Jessamy bride -- The amazing elopement -- The amazing duels -- A
+  melodrama at Covent Garden -- The comedy at Downing street.
+title: A Georgian Pageant
+url: http://www.gutenberg.org/ebooks/51964
